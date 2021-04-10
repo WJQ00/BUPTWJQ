@@ -1,5 +1,1 @@
 # BUPTWJQ
-
-Hello！
-
-iamwjqfrombupt
